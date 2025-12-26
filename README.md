@@ -1,6 +1,6 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/DouglasBaldissera97)](https://github.com/DouglasBaldissera97)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-baldissera/)](https://www.linkedin.com/in/douglas-baldissera/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/douglas_baldissera/)](https://www.instagram.com/douglas_baldissera/)
+[![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasBaldissera97)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-baldissera/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas_baldissera/)
 
 # Olá, eu sou o Douglas Baldissera! 👋
 
@@ -15,4 +15,11 @@ Sou um **Engenheiro da Computação** formado pela **UNIVATES** e atualmente atu
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-`PHP` `JavaScript` `SQL` `Docker` `Git`
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+💡 Todo projeto que desenvolvo não é apenas codificado, mas idealizado para gerar valor.
