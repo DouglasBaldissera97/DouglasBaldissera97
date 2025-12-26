@@ -16,6 +16,3 @@ Sou um **Engenheiro da Computação** formado pela **UNIVATES** e atualmente atu
 
 ### 🛠️ Tecnologias e Ferramentas
 `PHP` `JavaScript` `SQL` `Docker` `Git`
-
-### 📫 Vamos nos conectar?
-[LinkedIn](https://www.linkedin.com/in/douglas-baldissera/)
