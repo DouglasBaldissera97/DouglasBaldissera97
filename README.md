@@ -38,6 +38,3 @@ Sou um **Engenheiro da Computação** formado pela **UNIVATES** e atualmente atu
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-### 📊 Estatísticas
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DouglasBaldissera97&show_icons=true&theme=radical)](https://github.com/DouglasBaldissera97)
