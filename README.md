@@ -11,6 +11,11 @@ Sou um **Engenheiro da Computação** formado pela **UNIVATES** e atualmente atu
 - 🚀 **Desenvolvimento Web:** Mais de 6 anos de experiência como full-stack, focado em criar soluções inovadoras, eficientes e escaláveis.
 - 🏗️ **Infraestrutura & Suporte:** Mais de 2 anos de experiência vivenciados no setor industrial (indústria de joias).
 - 💡 **Filosofia:** Acredito que todo projeto de software não deve ser apenas codificado, mas **idealizado** para resolver problemas reais com excelência.
+---
+
+### 🛠️ Projetos Recentes
+- **Plataforma Jurídica (Concluído)**: Site institucional para escritório de advocacia focado em performance e SEO, garantindo uma presença digital sólida e profissional. [Acesse aqui](https://pnh.adv.br/).
+- **Catálogo Digital (Em andamento)**: Solução focada em experiência de busca e visualização de produtos, com filtros dinâmicos e interface otimizada. [Acesse aqui](https://teste.vpsul.com.br/).
 
 ---
 
@@ -38,3 +43,6 @@ Sou um **Engenheiro da Computação** formado pela **UNIVATES** e atualmente atu
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+
+### 📩 Contato para Projetos
+Se você tem um desafio técnico ou uma ideia de projeto, vamos conversar! [Link para meu LinkedIn](https://www.linkedin.com/in/douglas-baldissera/)
