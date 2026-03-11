@@ -16,7 +16,7 @@
 
 </div>
 
-### Engenheiro da Computação | Full-Stack Developer | Analista de Sistemas
+### Engenheiro da Computação | Desenvolvedor Full Stack Sênior | Analista de sistemas
 
 Sou um **Engenheiro da Computação** formado pela **UNIVATES** e atualmente atuo como **Analista de Sistemas na UPF**.
 
