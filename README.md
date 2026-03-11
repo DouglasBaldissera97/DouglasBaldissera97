@@ -11,12 +11,12 @@
 <div align="center">
 
 [![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasBaldissera97)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-baldissera/?locale=en-US)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-baldissera/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas_baldissera/)
 
 </div>
 
-### Computer engineer | Senior Full Stack Developer | Systems Analyst
+### Systems Analyst | Computer Engineer | Full-Stack Developer
 
 I'm a **Computer Engineer** graduated from **UNIVATES**, currently working as a **Systems Analyst at UPF**.
 
@@ -49,12 +49,16 @@ I'm a **Computer Engineer** graduated from **UNIVATES**, currently working as a 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### ⚙️ Other & Integrations
 ![JSON](https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white)
 ![REST API](https://img.shields.io/badge/rest_api-005571?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN-FF6600?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-4A90D9?style=for-the-badge&logo=buffer&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
