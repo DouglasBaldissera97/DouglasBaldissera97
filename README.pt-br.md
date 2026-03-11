@@ -16,7 +16,7 @@
 
 </div>
 
-### Engenheiro da Computação | Desenvolvedor Full Stack Sênior | Analista de sistemas
+### Engenheiro da Computação | Full-Stack Developer | Analista de Sistemas
 
 Sou um **Engenheiro da Computação** formado pela **UNIVATES** e atualmente atuo como **Analista de Sistemas na UPF**.
 
@@ -49,12 +49,16 @@ Sou um **Engenheiro da Computação** formado pela **UNIVATES** e atualmente atu
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### ⚙️ Outros & Integrações
 ![JSON](https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white)
 ![REST API](https://img.shields.io/badge/rest_api-005571?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN-FF6600?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-4A90D9?style=for-the-badge&logo=buffer&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
