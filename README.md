@@ -16,7 +16,7 @@
 
 </div>
 
-### Systems Analyst | Computer Engineer | Full-Stack Developer
+### Computer engineer | Senior Full Stack Developer | Systems Analyst
 
 I'm a **Computer Engineer** graduated from **UNIVATES**, currently working as a **Systems Analyst at UPF**.
 
