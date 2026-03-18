@@ -18,7 +18,7 @@
 
 ### Computer engineer | Senior Full Stack Developer | Systems Analyst
 
-I'm a **Computer Engineer** graduated from **UNIVATES**, currently working as a **Systems Analyst at University of Passo Fundo (UPF)**.
+I graduated from **UNIVATES** with a degree in **Computer Engineering**, currently working as a **Systems Analyst at University of Passo Fundo (UPF)**.
 
 - 🚀 **Web Development:** 6+ years of experience as a full-stack developer, focused on building innovative, efficient, and scalable solutions.
 - 🏗️ **Infrastructure & Support:** 2+ years of hands-on experience in the industrial sector (jewelry manufacturing).
