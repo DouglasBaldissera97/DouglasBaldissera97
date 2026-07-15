@@ -29,7 +29,7 @@ I graduated from **UNIVATES** with a degree in **Computer Engineering**, current
 ### 🛠️ Recent Projects
 
 - **Legal Platform (Completed):** Institutional website for a law firm focused on performance and SEO. [View here](https://pnh.adv.br/).
-- **Digital Catalog (In progress):** Product browsing solution with dynamic filters and optimized UI. [View here](https://teste.vpsul.com.br/).
+- **Digital Catalog (Completed):** Product browsing solution with dynamic filters and optimized UI. [View here](https://teste.vpsul.com.br/).
 
 ---
 
