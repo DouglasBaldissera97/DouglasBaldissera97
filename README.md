@@ -13,6 +13,7 @@
 [![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasBaldissera97)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-baldissera/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas_baldissera/)
+[![Taplink Badge](https://img.shields.io/badge/-Work%20With%20Me-10B981?style=for-the-badge&logo=handshake&logoColor=white)](https://douglasbaldissera.taplink.ws/)
 
 </div>
 
@@ -64,4 +65,5 @@ I graduated from **UNIVATES** with a degree in **Computer Engineering**, current
 
 ### 📩 Let's Connect
 
-Have a technical challenge or a project idea? Let's talk! [LinkedIn](https://www.linkedin.com/in/douglas-baldissera/)
+* **Networking & Career:** Connect with me on [LinkedIn](https://www.linkedin.com/in/douglas-baldissera/?locale=en-US).
+* **Projects & Freelance:** Have a technical challenge? [Work With Me](https://douglasbaldissera.taplink.ws/).
