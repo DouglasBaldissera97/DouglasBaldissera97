@@ -65,4 +65,7 @@ Sou um **Engenheiro da Computação** formado pela **UNIVATES** e atualmente atu
 
 ### 📩 Contato para Projetos
 
-Se você tem um desafio técnico ou uma ideia de projeto, vamos conversar! [LinkedIn](https://www.linkedin.com/in/douglas-baldissera/)
+Se você tem um desafio técnico ou uma ideia de projeto, vamos conversar!
+
+* 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/douglas-baldissera/)
+* 🚀 Solicite um orçamento via [WhatsApp & Serviços](https://douglasbaldissera.taplink.ws/)
