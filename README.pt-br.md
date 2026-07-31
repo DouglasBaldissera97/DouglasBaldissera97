@@ -17,7 +17,7 @@
 
 </div>
 
-### Engenheiro da Computação | Desenvolvedor Full Stack Sênior | Analista de sistemas
+### Engenheiro da Computação | Desenvolvedor Full Stack Sênior | Laravel | Vue.js | HTML, CSS e JavaScript | SQL | API REST | BPMN
 
 Sou um **Engenheiro da Computação** formado pela **UNIVATES** e atualmente atuo como **Analista de Sistemas na UPF**.
 
