@@ -16,7 +16,7 @@
 
 </div>
 
-### Computer engineer | Senior Full Stack Developer | Systems Analyst
+### Computer Engineer | Senior Full Stack Developer | Laravel | Vue.js | HTML, CSS and JavaScript | SQL | REST API | BPMN
 
 I graduated from **UNIVATES** with a degree in **Computer Engineering**, currently working as a **Systems Analyst at University of Passo Fundo (UPF)**.
 
