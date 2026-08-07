@@ -13,7 +13,7 @@
 [![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasBaldissera97)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-baldissera/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas_baldissera/)
-[![Taplink Badge](https://img.shields.io/badge/-Meus%20Serviços-1E293B?style=for-the-badge&logo=linktree&logoColor=white)](https://douglasbaldissera.taplink.ws/)
+[![Taplink Badge](https://img.shields.io/badge/-Meus%20Serviços-1E293B?style=for-the-badge&logo=linktree&logoColor=white)](https://douglasbaldissera.carrd.co/)
 
 </div>
 
@@ -68,4 +68,4 @@ Sou um **Engenheiro da Computação** formado pela **UNIVATES** e atualmente atu
 Se você tem um desafio técnico ou uma ideia de projeto, vamos conversar!
 
 * 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/douglas-baldissera/)
-* 🚀 Solicite um orçamento via [WhatsApp & Serviços](https://douglasbaldissera.taplink.ws/)
+* 🚀 Solicite um orçamento via [WhatsApp & Serviços](https://douglasbaldissera.carrd.co/)
