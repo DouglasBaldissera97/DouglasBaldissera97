@@ -67,4 +67,4 @@ I graduated from **UNIVATES** with a degree in **Computer Engineering**, current
 Have a technical challenge or a project idea? Let's talk!
 
 * 💼 Connect on [LinkedIn](https://www.linkedin.com/in/douglas-baldissera/)
-* 🚀 Freelance & Services (PT-BR): [Work With Me](https://douglasbaldissera.taplink.ws/)
+* 🚀 Freelance & Services (PT-BR): [Work With Me](https://douglasbaldissera.carrd.co/)
