@@ -16,7 +16,7 @@
 
 </div>
 
-### Computer Engineer | Senior Full Stack Developer | Laravel | Vue.js | HTML, CSS and JavaScript | SQL | REST API | BPMN
+### Full Stack Developer | PHP • Laravel • Vue.js • JavaScript • REST APIs • MySQL • Oracle • Tailwind CSS • Brazil
 
 I graduated from University of Vale do Taquari (Univates) with a degree in **Computer Engineering**, currently working as a **Systems Analyst at University of Passo Fundo (UPF)**.
 
