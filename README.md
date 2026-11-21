@@ -18,9 +18,9 @@
 
 ### Computer Engineer | Senior Full Stack Developer | Laravel | Vue.js | HTML, CSS and JavaScript | SQL | REST API | BPMN
 
-I graduated from **UNIVATES** with a degree in **Computer Engineering**, currently working as a **Systems Analyst at University of Passo Fundo (UPF)**.
+I graduated from University of Vale do Taquari (Univates) with a degree in **Computer Engineering**, currently working as a **Systems Analyst at University of Passo Fundo (UPF)**.
 
-- 🚀 **Web Development:** 6+ years of experience as a full-stack developer, focused on building innovative, efficient, and scalable solutions.
+- 🚀 **Web Development:** 7+ years of experience as a full-stack developer, building scalable, efficient solutions with a strong focus on clean code and robust architectures.
 - 🏗️ **Infrastructure & Support:** 2+ years of hands-on experience in the industrial sector (jewelry manufacturing).
 - 💡 **Philosophy:** I believe software should not just be coded, but **thoughtfully designed** to solve real problems with excellence.
 
