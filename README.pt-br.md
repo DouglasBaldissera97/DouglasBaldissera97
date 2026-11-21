@@ -17,11 +17,11 @@
 
 </div>
 
-### Engenheiro da Computação | Desenvolvedor Full Stack Sênior | Laravel | Vue.js | HTML, CSS e JavaScript | SQL | API REST | BPMN
+### Desenvolvedor Full Stack Sênior | Engenheiro da Computação | PHP • Laravel • Vue.js • JavaScript • MySQL • Oracle • API REST • BPMN • Git
 
-Sou um **Engenheiro da Computação** formado pela **UNIVATES** e atualmente atuo como **Analista de Sistemas na UPF**.
+Sou um **Engenheiro da Computação** formado pela Universidade do Vale do Taqaueri (UNIVATES) e atualmente atuo como **Analista de Sistemas na Universidade de Passo Fundo (UPF)**.
 
-- 🚀 **Desenvolvimento Web:** Mais de 6 anos de experiência como full-stack, focado em criar soluções inovadoras, eficientes e escaláveis.
+- 🚀 **Desenvolvimento Web:** Mais de 7 anos de experiência como desenvolvedor full-stack, criando soluções escaláveis ​​e eficientes, com um foco sólido em código limpo e arquiteturas robustas.
 - 🏗️ **Infraestrutura & Suporte:** Mais de 2 anos de experiência vivenciados no setor industrial (indústria de joias).
 - 💡 **Filosofia:** Acredito que todo projeto de software não deve ser apenas codificado, mas **idealizado** para resolver problemas reais com excelência.
 
@@ -29,8 +29,8 @@ Sou um **Engenheiro da Computação** formado pela **UNIVATES** e atualmente atu
 
 ### 🛠️ Projetos Recentes
 
-- **Plataforma Jurídica (Concluído):** Site institucional para escritório de advocacia focado em performance e SEO. [Acesse aqui](https://pnh.adv.br/).
-- **Catálogo Digital (Em andamento):** Solução focada em experiência de busca e visualização de produtos, com filtros dinâmicos e interface otimizada. [Acesse aqui](https://teste.vpsul.com.br/).
+- **Plataforma Jurídica (concluído):** Site institucional para escritório de advocacia focado em performance e SEO. [Acesse aqui](https://pnh.adv.br/).
+- **Catálogo Digital (concluído):** Solução focada em experiência de busca e visualização de produtos, com filtros dinâmicos e interface otimizada. [Acesse aqui](https://catalogo.vpsul.com.br/).
 
 ---
 
